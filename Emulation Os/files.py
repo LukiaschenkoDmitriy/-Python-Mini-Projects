@@ -1,0 +1,1 @@
+from __init__ import DEFAULT_NAME_FILE
